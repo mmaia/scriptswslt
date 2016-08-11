@@ -1,0 +1,9 @@
+#!/bin/bash
+
+SEVERIDADE=$1
+MENSAGEM_TIVOLI=$2
+WEBLOGIC_INSTANCE_NAME=$3
+ERROR_CLASS=$4
+
+. /opt/Tivoli/lcf/dat/1/lcf_env.sh
+wpostemsg  –r ${SEVERIDADE} –m "${MENSAGEM_TIVOLI}" hostname=${HOSTNAME}(${WEBLOGIC_INSTANCE_NAME}) ${ERROR_CLASS} ${HOSTNAME}

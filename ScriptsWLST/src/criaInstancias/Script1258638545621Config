@@ -1,0 +1,8 @@
+#WebLogic User Configuration File; 1
+#Thu Nov 19 11:50:48 BRST 2009
+ServerPrivateKeyPassPhrase_1258638648555.username={3DES}5iy5AxIX7RU\=
+ServerPrivateKeyPassPhrase_1258638648555.password={3DES}+Pwe28zMsTudCGuK8WQpGA\=\=
+JavaStandardTrustKeyStorePassPhrase_1258638606118.username={3DES}5iy5AxIX7RU\=
+CustomIdentityKeyStorePassPhrase_1258638606062.username={3DES}5iy5AxIX7RU\=
+CustomIdentityKeyStorePassPhrase_1258638606062.password={3DES}+Pwe28zMsTudCGuK8WQpGA\=\=
+JavaStandardTrustKeyStorePassPhrase_1258638606118.password={3DES}7LkGGTpIAenHMktKhLTeHw\=\=
